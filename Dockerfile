@@ -1,4 +1,3 @@
-
 FROM gcc:12 AS builder
 WORKDIR /app
 COPY . .
